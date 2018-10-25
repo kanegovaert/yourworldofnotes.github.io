@@ -1,0 +1,11 @@
+html, body {
+    margin: 0px;
+    pading: 0px;
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    background: url("backgrounds/black-folk-pattern.png") repeat center;
+    background-size: auto;
+}
