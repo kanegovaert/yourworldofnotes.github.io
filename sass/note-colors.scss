@@ -1,0 +1,10 @@
+$card-color-light-green: #B6FF26;
+$card-color-red: #FF4A26;
+$card-color-green: #3BFF26;
+$card-color-purple: #FF4486;
+$card-color-light-brown: #FF9226;
+
+@mixin initializeCard($color, $size){
+  background-color: $color;
+  border-radius: 4px;
+}
