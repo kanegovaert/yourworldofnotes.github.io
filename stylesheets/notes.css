@@ -1,0 +1,7 @@
+/* line 1, ../sass/notes.scss */
+.note {
+  width: 30%;
+  background-color: #FF4486;
+  font-size: 20px;
+  border-radius: 4px;
+}

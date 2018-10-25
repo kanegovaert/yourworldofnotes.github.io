@@ -1,0 +1,11 @@
+/* line 1, ../sass/general.scss */
+html {
+  height: 100%;
+}
+/* line 3, ../sass/general.scss */
+html body {
+  margin: 0px;
+  pading: 0px;
+  background: url("../backgrounds/black-folk-pattern.png") repeat center;
+  background-size: auto;
+}

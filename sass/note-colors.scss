@@ -4,7 +4,7 @@ $card-color-green: #3BFF26;
 $card-color-purple: #FF4486;
 $card-color-light-brown: #FF9226;
 
-@mixin initializeCard($color, $size){
+@mixin initializeCard($color){
   background-color: $color;
   border-radius: 4px;
 }
